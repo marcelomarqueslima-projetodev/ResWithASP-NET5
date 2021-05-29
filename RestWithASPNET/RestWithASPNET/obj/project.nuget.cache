@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUwBJkRyeUm2Cv1oAHTAoIb9t9EAvw1ajBdscjcOGl1k7UM9sp54AilPLzCXGEQ3J3sKUW1DXRi8b8UzXC00eA==",
+  "success": false,
+  "projectFilePath": "C:\\dev\\dotnet\\ResWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Swashbuckle.AspNetCore. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
